@@ -8,6 +8,8 @@ The project is being developed by:
 * Charlie Plant, Principal @ MET West
 * The open source universe.
 
+Contact: kungfoowizards@gmail.com
+
 ##Intro
 MET West, a [Big Picture](http://www.bigpicture.org/) school, encourages students to follow their interests and seek outside opportunities to learn, such as through apprenticeships.  Students may leave campus to attend classes and apprenticeships. This project will provide opportunities for students to learn computer programming _as it applies to their particular interests_, by working directly with professional wizards.  See [Project Goals](/campaign/goals.md) for more information and other goals.
 
