@@ -13,7 +13,7 @@ A game of magic and spells played by programming your character's actions
 [link]()
 
 ##Secret Synthesizer
-Use programming and math to make music/audio
+Use programming and math to make music/audio (work in progress)
 [Synth.fm](http://secret.synth.fm)
 
 
