@@ -4,6 +4,10 @@ Here you should find a list, description and links to open source materials whic
 ##Voxel.js
 Voxel.js is a bunch of modular components for programming your own interactive, multi-user, 3D worlds in the browser. Website: [Voxel.js](http://voxeljs.com)
 
+##Node School
+Interactive tutorials for learning how to use Node.js
+[Node School](http://nodeschool.io)
+
 ##Wizard Game
 A game of magic and spells played by programming your character's actions
 [link]()
