@@ -20,8 +20,9 @@ What does the project need?
 New or refurbished laptops, ~$200-300ea
 Linux, with installed dev tools and apps
 ###work space(s)
-*make use of free public space
-*transportation
-*food/meals
+* make use of free public space
+* transportation
+* food/meals?
+
 ###hackable hardware
 Such raspberry pi, quadcopters, sensors, projectors, mobile devices, etc, as needed for individual student's interests 
