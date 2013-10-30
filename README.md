@@ -2,6 +2,7 @@
 This is a repo for a public education project to provide programming apprenticeship and mentoring to students of MET West High School in the Oakland Unified Public School district.
 
 The project is being developed by:
+
 *[Johnny](https://github.com/NHQ)
 *[James](https://github.com/substack)
 *Charlie Plant, Principal @ MET West
