@@ -1,3 +1,10 @@
+#ToC
+* [campaign](./campaign.md) - details concerning the campaign to fund the program
+* [goals](./goals.md) - goals of the program
+* [open source](./open-source.md) - open source stuff we can use as demos, examples, and teaching
+* [reference](./reference.md) - a general reference for programming, education, and digital stuff, such as research, reports, data...
+* [video](./video.md) - ideas and scripts for the crowd-fund campaign video
+
 #KUNG FOO WIZARDS
 This is a repo for a public education project to provide programming apprenticeship and mentoring to students of MET West High School in the Oakland Unified Public School district.
 
