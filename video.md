@@ -1,8 +1,12 @@
-#Campaign Video Ideas & Script
+#Campaign & Video Ideas
 
-There are at least two directoon we can take:
+There are at least three directoon we can take:
 1. we're starting a radical thing in public education,
 2. we're running a program at Met West High School
+3. we make a huble video and point to an interactive thing we made.  
+
+if the third: monthlong hackathon
+IDEA:  wizards game redux, set in a short story.  A story about getting a job lol.
 
 If the second, then we do some demos, a mini hackathon, and some basic open sessions between now and campaign launch.  We'll record video of these events to use in the video.
 
