@@ -21,6 +21,7 @@ idea:  they make a text messages app that uses some API
 Idea: 
 
 If the first direction, then we focus on ideas and ideals and expose the system through a filterad.
+IDEA:  we describe how this open source thing will work, how it will benefit, what are its goals.
 IDEA:  we act like we're training the anti-fascists of the future lol
 IDEA:  Setting: Middle-East Oakland.  Kids in small fenced playpens, which is actually their playground. A gorilla tech art scene pops up other side of teh fence one day for real.  Cut to military / black squadron looking leader, calling for drones and cameras cyber stuff.  Cut to scene of students hacking same.
 IDEA: 
