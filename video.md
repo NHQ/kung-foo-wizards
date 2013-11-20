@@ -6,10 +6,11 @@ There are at least three directoon we can take with video/campaign:
 2. we're running a program at Met West High School
 3. we make a humble video about bringing programming to the lower bottoms, and point to an interactive educational we made.  
 
-if the third: monthlong hackathon
+##if the third: monthlong hackathon
 IDEA:  wizards game redux, set in a short story.  A story about getting a job lol.
 
-If the second, then we do some demos, a mini hackathon, and some basic open sessions between now and campaign launch.  We'll record video of these events to use in the video.
+##If the second
+then we do some demos at Met West, a mini hackathon, and some basic open sessions between now and campaign launch.  We'll record video of these events to use in the video.
 
 This will also help us attract actual students.
 
@@ -25,7 +26,8 @@ Idea:  they make websites that link back and forth and create an equsisite corps
 idea:  they make a text messages app that uses some API
 Idea: 
 
-If the first direction, then we focus on ideas and ideals and expose the system through a filterad.
+##If the first direction
+Then we focus on ideas and ideals, and expose the education system through a filter radical.
 IDEA:  we describe how this open source thing will work, how it will benefit, what are its goals.
 IDEA:  we act like we're training the anti-fascists of the future lol
 IDEA:  Setting: Middle-East Oakland.  Kids in small fenced playpens, which is actually their playground. A gorilla tech art scene pops up other side of teh fence one day for real.  Cut to military / black squadron looking leader, calling for drones and cameras cyber stuff.  Cut to scene of students hacking same.
